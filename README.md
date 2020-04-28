@@ -20,7 +20,7 @@ The code is organized into the following folders:
   preprocessing data.
 - **learning:**
   - models.py: model architectures implementations.
-  - trainder.py: a class in charge of training a provided model.
+  - trainer.py: a class in charge of training a provided model.
   - hierarchy_computation.py: code for computing the label hierarchy.
 - **utils:** other utility functions, including our
   implementation of the Affinity clustering algorithm.
